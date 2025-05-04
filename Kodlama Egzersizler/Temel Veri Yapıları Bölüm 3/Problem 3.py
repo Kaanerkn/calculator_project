@@ -1,0 +1,1 @@
+print("Fatura Tutarı Hesaplama Programı")
