@@ -1,19 +1,13 @@
-# IDE dosyaları
+# PyCharm dosyaları
 .idea/
-*.iml
 
-# Python sanal ortamları
-venv/
-.venv/
-
-# Python cache dosyaları
+# Geçici dosyalar
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Gereksiz proje dosyaları
+# Kendi eklediklerin
 Test2.py
 img.png
 Kodlama Egzersizleri/
+
 
