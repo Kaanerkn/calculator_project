@@ -1,0 +1,19 @@
+# IDE dosyaları
+.idea/
+*.iml
+
+# Python sanal ortamları
+venv/
+.venv/
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Gereksiz proje dosyaları
+Test2.py
+img.png
+Kodlama Egzersizleri/
+
